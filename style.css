@@ -2418,7 +2418,6 @@
     background-image: -webkit-linear-gradient(left, #ff458a, #9248e9);
     background-image: -o-linear-gradient(left, #ff458a, #9248e9);
     background-image: linear-gradient(to right, #ff458a, #9248e9);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 32px;
     line-height: 60px;
